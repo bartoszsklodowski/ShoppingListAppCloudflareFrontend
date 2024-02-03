@@ -1,0 +1,4 @@
+name = "shopping-list-app"
+main = "src/worker.js"
+compatibility_date = "2024-02-02"
+workers_dev = true
